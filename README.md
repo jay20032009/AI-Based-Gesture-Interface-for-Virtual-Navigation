@@ -7,6 +7,7 @@ Gesture Recognition: Real-time detection and interpretation of hand and body mov
 Intuitive Navigation: Easy and natural control of virtual environments using predefined gestures.
 High Accuracy: Robust performance in various lighting conditions and user environments.
 Customizable Gestures: Support for adding and modifying gestures to suit different applications.
+
 Technologies Used:
 Machine Learning (ML)
 Computer Vision
