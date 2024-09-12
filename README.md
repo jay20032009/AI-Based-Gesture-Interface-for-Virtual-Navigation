@@ -1,19 +1,22 @@
-# AI-Based-Gesture-Interface-for-Virtual-Navigation
+# AI Virtual Mouse Using Hand Gestures
 
-This project showcases an innovative AI-powered gesture interface designed for seamless virtual navigation. Leveraging advanced computer vision and machine learning techniques, the system interprets user gestures to control and navigate virtual environments. This interface is optimized for real-time interaction, providing an intuitive and immersive user experience in virtual reality (VR) and augmented reality (AR) applications.
+The "AI Virtual Mouse Using Hand Gestures" project is a machine learning-based application that enables users to control their computer mouse using hand gestures. By leveraging computer vision techniques, the application recognizes hand gestures and translates them into mouse movements. It employs deep learning models to accurately predict hand movements and provides a user-friendly interface for interaction.
 
-Key Features:
+This project is designed to work on any computer with a camera, making it accessible for anyone interested in exploring computer vision and machine learning capabilities. The code is available on GitHub, making it open-source and available for community contributions.
 
-Gesture Recognition: Real-time detection and interpretation of hand and body movements.
+## Dependencies
 
-Intuitive Navigation: Easy and natural control of virtual environments using predefined gestures.
+To run this project, you'll need to install the following dependencies:
 
-High Accuracy: Robust performance in various lighting conditions and user environments.
+- **OpenCV**: For image processing and drawing.
+- **mediapipe**: For hand tracking.
+- **autopy**: For controlling mouse movement and clicks.
+- **numpy**: For numerical operations.
 
-Customizable Gestures: Support for adding and modifying gestures to suit different applications.
+## Installation
 
-Technologies Used:
-Machine Learning (ML), 
-Computer Vision, 
-Real-Time Processing, 
-VR/AR Integration
+Follow these steps to set up and run the project:
+
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/<USERNAME>/AI-Virtual-Mouse.git
