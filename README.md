@@ -1,4 +1,4 @@
-# AI Virtual Mouse Using Hand Gestures
+# AI-Based Gesture Interface for Virtual Navigation
 
 The "AI Virtual Mouse Using Hand Gestures" project is a machine learning-based application that enables users to control their computer mouse using hand gestures. By leveraging computer vision techniques, the application recognizes hand gestures and translates them into mouse movements. It employs deep learning models to accurately predict hand movements and provides a user-friendly interface for interaction.
 
