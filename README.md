@@ -20,7 +20,7 @@ Follow these steps to set up and run the project:
 1. **Clone the Repository:**
    
    ```bash
-   [git clone https://github.com/jay20032009/AI-Based-Gesture-Interface-for-Virtual-Navigation-.git]
+   [git clone https://github.com/jay20032009/AI-Based-Gesture-Interface-for-Virtual-Navigation.git]
 
 2. **Install Required Dependencies:**
    Navigate to the project directory and install the dependencies using pip:
